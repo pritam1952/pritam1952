@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I’m currently a 2nd-year student at **NIT Hamirpur**, pursuing Electrical Engineering  
+🎓 I’m currently a 3rd-year student at **NIT Hamirpur**, pursuing Electrical Engineering  
 📊 Passionate about **Data Science** and solving real-world problems using data  
 💡 Currently learning: `Python`, `NumPy`, `Pandas`, and `Data Visualization`  
 🚀 Exploring projects in: Exploratory Data Analysis, Time Series, and ML  
