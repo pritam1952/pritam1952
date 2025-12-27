@@ -30,7 +30,8 @@
 
 | Project Title | Description |
 |--------------|-------------|
-| [🔥 Algerian Forest Fire Prediction (Flask ML App)](https://github.com/your-username/your-repo-name) | End-to-end ML project using Ridge Regression to predict Fire Weather Index (FWI). Includes EDA, model training, preprocessing, and Flask-based web deployment. |
+| | [🔥 Algerian Forest Fire Prediction (Flask ML App)](https://github.com/pritam1952/testforestFires) | End-to-end ML project using Ridge Regression to predict Fire Weather Index (FWI). Includes EDA, model training, preprocessing, and Flask-based web deployment. |
+ |
 | [🏠 House Price EDA](https://github.com/pritam1952/House_price_EDA) | Clean exploratory data analysis on Kaggle’s house price dataset. Includes data cleaning, correlation heatmaps, boxplots, and visual insights. |
 | [🏏 IPL Analysis](https://github.com/pritam1952/ipl-analysis) | Complete data analysis project on IPL matches and players using Pandas, Matplotlib, and Seaborn. Explores performance trends and visual stats. |
 
