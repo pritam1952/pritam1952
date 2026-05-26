@@ -37,7 +37,6 @@ Building intelligent systems, scalable ML pipelines, and modern AI-powered appli
 
 📫 Reach me at:  
 - LinkedIn → https://www.linkedin.com/in/pritam-kumar075
-- Portfolio → https://portfolio-beta-opal-l4.vercel.app/
 
 ---
 
