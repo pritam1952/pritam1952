@@ -93,9 +93,6 @@ Building intelligent systems, scalable ML pipelines, and modern AI-powered appli
 
 ---
 
-# 🌐 Portfolio
-
-🔗 https://portfolio-beta-opal-14.vercel.app/
 
 ---
 
