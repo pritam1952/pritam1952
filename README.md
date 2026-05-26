@@ -9,7 +9,7 @@ Building intelligent systems, scalable ML pipelines, and modern AI-powered appli
 </p>
 
 <p align="center">
-  <a href="https://portfolio-beta-opal-l4.vercel.app/">
+  <a href="https://portfolio-beta-opal-14.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6C63FF?style=for-the-badge" />
   </a>
   <a href="https://github.com/pritam1952">
@@ -95,7 +95,7 @@ Building intelligent systems, scalable ML pipelines, and modern AI-powered appli
 
 # 🌐 Portfolio
 
-🔗 https://portfolio-beta-opal-l4.vercel.app/
+🔗 https://portfolio-beta-opal-14.vercel.app/
 
 ---
 
