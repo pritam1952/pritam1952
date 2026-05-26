@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritam Kumar</h1>
 
 <h3 align="center">
-AI/ML Engineer • Data Scientist • Full-Stack Developer
+AI/ML Engineer • Data Scientist 
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@ Building intelligent systems, scalable ML pipelines, and modern AI-powered appli
 ## 🚀 About Me
 
 🎓 Electrical Engineering undergraduate at **NIT Hamirpur**  
-🤖 Passionate about **Artificial Intelligence, Machine Learning, MLOps & Full-Stack AI Systems**  
+🤖 Passionate about **Artificial Intelligence, Machine Learning, MLOps **  
 🧠 Focused on building **production-grade AI applications** and scalable ML infrastructure  
 ⚡ Interested in:
 - Generative AI
@@ -30,7 +30,6 @@ Building intelligent systems, scalable ML pipelines, and modern AI-powered appli
 - Machine Learning Systems
 - Deep Learning
 - End-to-End MLOps
-- Cloud Deployment
 - Data Engineering
 
 🌱 Currently learning:
@@ -48,8 +47,7 @@ Building intelligent systems, scalable ML pipelines, and modern AI-powered appli
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 
 ---
 
@@ -84,46 +82,6 @@ Building intelligent systems, scalable ML pipelines, and modern AI-powered appli
 
 ---
 
-## 🌐 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| [🧠 Student Performance Prediction – End-to-End MLOps](https://github.com/pritam1952/Student_Performance) | Production-grade ML pipeline with data ingestion, preprocessing, feature engineering, model training, CI/CD using GitHub Actions, Dockerization, and AWS deployment. |
-| [🔥 Algerian Forest Fire Prediction](https://github.com/pritam1952/testforestFires) | ML-powered Flask application using Ridge Regression to predict Fire Weather Index with full deployment pipeline. |
-| [🏠 House Price EDA](https://github.com/pritam1952/House_price_EDA) | Detailed exploratory data analysis on housing datasets with visual insights and preprocessing workflows. |
-| [🏏 IPL Data Analytics](https://github.com/pritam1952/ipl-analysis) | Sports analytics project exploring IPL performance trends using Pandas, Matplotlib, and Seaborn. |
-
----
-
-# 🧠 DSA & Problem Solving
-
-- Strong understanding of:
-  - Arrays
-  - Strings
-  - Recursion
-  - Trees
-  - Graphs
-  - Dynamic Programming
-  - Searching & Sorting
-
-- Solving problems regularly on:
-  - LeetCode
-  - GeeksForGeeks
-
-- Focused on:
-  - Optimization
-  - Clean Code
-  - Efficient Algorithms
-
----
 
 # 📈 Current Goals
 
